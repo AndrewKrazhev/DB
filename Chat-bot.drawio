@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T20:22:55.528Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.719 Yowser/2.5 Safari/537.36" version="21.2.9" etag="dyJSOnGhQdThxUpN36Oo" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T21:16:30.998Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.719 Yowser/2.5 Safari/537.36" etag="S7EwSnP0HJX2-dUrktyp" version="21.2.9" type="github">
   <diagram name="Страница 1" id="sUsjRRy6tWfMVr9m_Gau">
-    <mxGraphModel>
+    <mxGraphModel dx="956" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=openThin;endFill=0;endSize=1;startSize=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3JEnoNcAr4yvjTAZGJ4-1" target="J3JEnoNcAr4yvjTAZGJ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=openThin;endFill=0;endSize=1;startSize=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J3JEnoNcAr4yvjTAZGJ4-1" target="J3JEnoNcAr4yvjTAZGJ4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="380" as="sourcePoint" />
+            <mxPoint x="564" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=openThin;endFill=0;endSize=1;startSize=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3JEnoNcAr4yvjTAZGJ4-1" target="J3JEnoNcAr4yvjTAZGJ4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="330" as="sourcePoint" />
+            <mxPoint x="230" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-1" value="ЧАТ БОТ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-2" value="Перечень специальностей и профессий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-4" value="Сведения о времени подачи заявления и необходимом комплекте документов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="350" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-6" value="Информация о месте в общем рейтинге" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=openThin;endFill=0;endSize=1;startSize=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J3JEnoNcAr4yvjTAZGJ4-1" target="J3JEnoNcAr4yvjTAZGJ4-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-9" value="Информация о расположении учебного заведения, площадках и т.п." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-11" value="Текущая информация и новости приёмной компании (лента)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J3JEnoNcAr4yvjTAZGJ4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;endArrow=openThin;endFill=0;endSize=1;startSize=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J3JEnoNcAr4yvjTAZGJ4-1" target="J3JEnoNcAr4yvjTAZGJ4-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="230" y="375" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
